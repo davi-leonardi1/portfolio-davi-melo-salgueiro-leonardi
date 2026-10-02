@@ -11,7 +11,7 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o 2º período de Engenharia de Software na Universidade Cidade de São Paulo. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Desenvolvimento Backend / Análise de Dados.
+Me chamo Davi Melo, atualmente estou com 19 anos, moro na região de São Mateus - SP, estudo engenharia de software na UNICID - Tatuapé (2° semestre) e meu objetivo na carreira profissional é ter a oportunidade como Trainee ou Estagiário para ampliar meus conhecimentos e obter experiências na minha área. Minha trajetória profissional é pela área hospitalar, no Hospital Sepaco como Jovem Aprendiz, onde auxiliei no processo de faturamento e XML, tendo experiências com Analistas de alta qualidade, onde amadureci de forma clara e fluída.
  
 * **Habilidades Técnicas**: Python, Java, C# e SQL. 
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
