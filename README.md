@@ -11,7 +11,7 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o 1º período de Engenharia de Software na Universidade Cidade de São Paulo. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Desenvolvimento Backend / Análise de Dados.
+Atualmente cursando o 2º período de Engenharia de Software na Universidade Cidade de São Paulo. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Desenvolvimento Backend / Análise de Dados.
  
 * **Habilidades Técnicas**: Python, Java, C# e SQL. 
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
@@ -62,11 +62,3 @@ Atualmente cursando o 1º período de Engenharia de Software na Universidade Cid
 | **Batalha de modelos** | Projeto criado para comparar o desempenho de diferentes modelos de Inteligência Artificial, avaliando precisão, eficiência e qualidade das respostas em múltiplos testes | [Ver Projeto](./batalha_de_modelos/) | 
 | **Engenharia Reversa** | Projeto voltado à análise e reconstrução de processos utilizando Inteligência Artificial, explorando padrões, estruturas e funcionamento de sistemas e conteúdos digitais. | [Ver Projeto](./engenharia_reversa/) | 
 | **Engenharia Reversa + MVP** | Projeto voltado a melhorar a duplicagem que fizemos na Engenharia reversa. | [Ver Projeto](./engenharia_reversa_mvp/) | 
-
----
- 
-### 🏗 Estrutura do Repositório
-Abaixo, a organização deste repositório para facilitar a navegação:
- 
-- `root/`: Arquivo de apresentação principal.
-- `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
